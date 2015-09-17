@@ -1,5 +1,7 @@
 # WP Last Seen #
 
+[![Join the chat at https://gitter.im/foae/wp-last-seen](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/foae/wp-last-seen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 WP Last Seen displays a widget in front end with information regarding when was the last time a member has been seen online.
 
 ## Description ##
